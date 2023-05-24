@@ -16,7 +16,7 @@ header{
     justify-content: space-between;
     color: white;
     font-size: 16px;
-    background-color: rgba(0, 0, 0, 0.4);
+    background-color: rgb(15, 14, 14);
     
    
     }
@@ -55,7 +55,9 @@ header{
     .logo{
       cursor: pointer; 
       font-size: 20px;
+      font-weight:900;
       color: rgba(10, 161, 248, 0.774);
+      font-family:'Archivo Black', sans-serif; ;
       
     }
     .these {
@@ -165,3 +167,40 @@ flex-direction: row;
     width: 150px;
     height: 150px;
 }
+
+ .footermain{
+        background-color: #f8f8f8;
+        color:  black;
+        justify-content: space-between;
+        display: flex;
+        flex-direction: row;
+        font-weight: bold;
+        margin-top: 5%;
+        
+        }
+        .only{
+            font-weight: lighter ;
+            color:  black;
+            text-align: center;
+           }
+           
+         
+           .lists{
+             color: black;
+             font-weight: lighter;
+           }
+    .insta{
+        color: rgba(220, 7, 75, 0.517);
+        font-size:30px ;
+    }
+    .fb{
+        color:  #385898;;
+        font-size: 30px;
+    }
+    .twitter{
+        font-size: 30px;
+        color: rgb(29, 155, 240);
+    }
+    
+    
+    

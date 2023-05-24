@@ -1,0 +1,104 @@
+*{
+    margin: 0%; 
+    padding: 0%;
+    
+ }
+ 
+ 
+ body{
+     background: url(images/black-top-handle-bag.jpg);
+     background-repeat: no-repeat;
+     background-size:cover;
+     background-position: center;
+     background-blend-mode: darken;
+     background-size: cover;
+     background-color: rgba(0, 0, 0, 0.8);
+     margin: 0%;
+     padding: 0%;
+     font-family: 'Roboto', sans-serif;
+ 
+ }
+ header{
+ position: relative;
+ color: black;
+ 
+ }
+ h1,p{
+ color: #dbd9d9;
+ }
+ nav a, header {
+     color: black;
+ }
+ .center ion-icon{
+     color: rgb(197, 68, 117);
+ }
+ .form{
+     margin-top:50px ;
+     padding: 0%;
+     cursor: pointer;
+     
+ }
+ form{
+     background-color: rgba(70, 69, 69, 0.292);
+    margin:0 auto;
+    height:450px ;
+    width: 500px;
+    padding-left: 20px;
+    padding-right: 20px;
+   
+ 
+ }
+ .center{
+ margin-left:110px ;
+ 
+ }
+ a{
+     color: #f8f8f8;
+ }
+ .user{
+    color: rgb(10, 9, 10);
+ }
+ input{
+     background-color: white;
+     border:none ;
+   height: 40px;
+   width: 250px;
+ 
+ }
+ .login-button{
+     width:250px ;
+     height: 45px;
+     background-color: rgb(18, 148, 218);
+     border: none;
+     color: white;
+     font-weight: bold;
+ 
+ }
+ .facebook-button{
+     width:125px ;
+     height: 45px;
+     background-color: rgb(2, 2, 131);
+     border: none;
+     color: white;
+     font-weight: bold;
+ }
+ .insta-button{
+     width:125px ;
+     height: 45px;
+     border: none;
+     background-color: rgb(216, 77, 105);
+     color: white;
+     font-weight: bold;
+     margin: 0px 0px 10px 5px;
+ }
+ .linkthis{
+     color: rgb(76, 146, 189);
+ }
+ .footermain{
+ margin: 30px 0px 10px 0px;
+ padding: 20px;
+ 
+ }
+  a .linkthis{
+     color: rgb(11, 11, 244);
+ }
